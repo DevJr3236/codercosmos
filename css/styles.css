@@ -11732,3 +11732,7 @@ html {
     left: -2vw;
   }
 }
+
+section.bg-form {
+    background: #f3f3fe;
+}
