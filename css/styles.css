@@ -11736,3 +11736,6 @@ html {
 section.bg-form {
     background: #f3f3fe;
 }
+section.bg-form.py-5 .text-center.my-5 {
+    margin: 0px !important;
+}
